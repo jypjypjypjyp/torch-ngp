@@ -1,7 +1,8 @@
+--extra-index-url https://pypi.tuna.tsinghua.edu.cn/simple
 torch-ema
 ninja
 trimesh
-opencv-python
+opencv-python-headless
 tensorboardX
 torch
 numpy 
